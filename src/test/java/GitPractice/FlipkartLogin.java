@@ -20,6 +20,10 @@ public class FlipkartLogin {
 		Reporter.log("login sucessfull flipkaert=================================================================================================");
 		driver.findElement(By.name("q")).sendKeys("iphone");
 		Reporter.log("Add Tow Statements");
+		Reporter.log("Add Tow Statements");
+		Reporter.log("Add Tow Statements");
+		Reporter.log("Add Tow Statements");
+		Reporter.log("Add Tow Statements");
 		driver.close();
 	}
 }
